@@ -1,0 +1,16 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.ide
+
+# Archivos de compilación
+bin/
+obj/
+*.exe
+*.pdb
+*.dll
+*.appx
+
+# Archivos de configuración
+*.config
